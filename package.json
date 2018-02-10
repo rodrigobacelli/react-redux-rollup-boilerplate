@@ -1,0 +1,8 @@
+{
+  "name": "react-redux-rollup-boilerplate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/rodrigobacelli/react-redux-rollup-boilerplate.git",
+  "author": "Rodrigo Bacelli <rodrigobac@gmail.com>",
+  "license": "MIT"
+}
